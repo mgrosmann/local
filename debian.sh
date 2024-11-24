@@ -6,6 +6,7 @@ wget https://mgrosmann.onrender.com/nextcloud.sh
 wget https://mgrosmann.onrender.com/rsync.sh
 wget https://mgrosmann.onrender.com/promotheus.sh
 wget https://mgrosmann.onrender.com/remove.sh
+apt install sudo
 chmod +x *.sh
 bash deb_docker.sh
 bash promotheus.sh
