@@ -1,6 +1,7 @@
 Ubuntu server= 
 wget https://mgrosmann.onrender.com/setup.sh |
 chmod +x setup.sh bash setup.sh|
+
 Pour Debian=
 wget https://mgrosmann.onrender.com/debian.sh |
 chmod +x debian.sh|
