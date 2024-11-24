@@ -6,5 +6,6 @@ wget https://mgrosmann.onrender.com/nextcloud.sh
 wget https://mgrosmann.onrender.com/promotheus.sh
 wget https://mgrosmann.onrender.com/remove.sh
 chmod +x *.sh
+bash docker.sh
 bash promotheus.sh
 bash nextcloud.sh
